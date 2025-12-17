@@ -1,0 +1,4 @@
+-- Infinite Yield
+-- Original developers: Edge, Zwolf, Moon, Toon, Peyton, ATP
+-- Modified by MRXXXGMRYT 
+-- Thanks to ChatGPT for helping (idk scripting man :c)
